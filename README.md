@@ -105,24 +105,20 @@ If a review is posted, the user should be able to return to the establishments p
 
 ## Class Diagram
 
-
+https://github.com/AdkersonJohn/ranchRatings/blob/main/UML.png
 
 ### Class Diagram Description
 
 
-**MainActivity:**  The first screen the user sees.  This will have a list of specimens, and an option to enter a new specimen.  
+**Map:**  The first screen the user sees.  This will have geographical map, and search bar via which user can search for establishments.  
 
-**SpecimenDetailsActivity:**  A screen that shows details of a specimen.  
+**Marker:**  Enables users to set markers on desired locations.  
 
-**RetrofitInstance:** Boostrap class required for Retrofit.  
+**InfoWindow:** When a user reaches a location they desire, they will click on the location and a window displaying the establishments landing page will appear.  
 
-**Plant:** Noun class that represents a plant.  
+**RanchDatabase:** Stores all user/establishment data.  
 
-**Specimen:** Noun class that represents a specimen.  
 
-**IPlantDAO:** Interface for Retrofit to find and parse Plant JSON.  
-
-**ISpecimenDAO:**
 
 ## Scrum Roles
 
