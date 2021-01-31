@@ -119,7 +119,6 @@ https://github.com/AdkersonJohn/ranchRatings/blob/main/UML.png
 **RanchDatabase:** Stores all user/establishment data.  
 
 
-
 ## Scrum Roles
 
 - DevOps/Product Owner/Scrum Master: John Adkerson  
