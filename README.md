@@ -54,6 +54,7 @@ Information about the establishment will be listed below the map screen
 **Then** I should receive at least one result of a nearby location
 
 1.2
+
 **Given** a feed a restauraunt data is available
 
 **When**  I search for "Mitas"
@@ -77,21 +78,29 @@ If a review is posted, the user should be able to return to the establishments p
 #### Examples
 
 2.1
+
 **Given** a feed a restauraunt data is available
+
 **Given** GPS details are available 
+
 **When** 
 
 - Select the establishment "Texas Roadhouse"
 - Add pleasurable notes and 5 star review, then press "submit"
+
 **Then** The good review is posted public for all users to view on Texas Roadhouse's landing page.
 
 2.2
+
 **Given** a feed a restauraunt data is available
+
 **Given** GPS details are available 
+
 **When**
 
 - Select the establishment "Mitas"
 - Add poor notes and 1 star review, then press "submit"
+
 **Then** The bad review is posted public for all users to view on Mitas' landing page.
 
 ## Class Diagram
