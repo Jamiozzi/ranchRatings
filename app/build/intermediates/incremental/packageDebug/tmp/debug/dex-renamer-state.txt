@@ -1,0 +1,4 @@
+#Wed Feb 17 12:38:41 EST 2021
+base.0=F\:\\android projects\\ranchRatings\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
