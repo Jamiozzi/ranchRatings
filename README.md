@@ -25,6 +25,7 @@ Use your android device to create your own profile.  Use the search function, or
 
 [Ranch Ratings Storyboard] (https://www.fluidui.com/editor/live/preview/cF82ODQ5MEl4VzY4eUFVbUhjYzdpa1haWFYzV0RFVGdwRg==)
 ![RanchRatingsFirstScreen] (https://github.com/AdkersonJohn/ranchRatings/blob/main/story.PNG)
+![RanchRatingsThemesLayoutsDesign] (https://drive.google.com/file/d/1mfCpWKqwnbFM02eHZ6zUhiY9C3NSiJu0/view?usp=sharing)
 
 ## Functional Requirements
 
